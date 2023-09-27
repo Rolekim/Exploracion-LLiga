@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: 9520653dd48affa458aac7192cb4eaa7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9113319849610624552
+    second: davo_TeVoyACastigar2Animation_0
+  - first:
+      213: 6153521416488539892
+    second: davo_TeVoyACastigar2Animation_1
+  - first:
+      213: -8498570387063089925
+    second: davo_TeVoyACastigar2Animation_2
+  - first:
+      213: 2882028613569184548
+    second: davo_TeVoyACastigar2Animation_3
+  - first:
+      213: -5326063012617815841
+    second: davo_TeVoyACastigar2Animation_4
+  - first:
+      213: 7805055705012985358
+    second: davo_TeVoyACastigar2Animation_5
+  - first:
+      213: 8320069060592217329
+    second: davo_TeVoyACastigar2Animation_6
+  - first:
+      213: 6691279707157564695
+    second: davo_TeVoyACastigar2Animation_7
+  - first:
+      213: -6086823164585397259
+    second: davo_TeVoyACastigar2Animation_8
+  - first:
+      213: 7659176398158202191
+    second: davo_TeVoyACastigar2Animation_9
+  - first:
+      213: 1648809893578962664
+    second: davo_TeVoyACastigar2Animation_10
+  - first:
+      213: -4638908860650462815
+    second: davo_TeVoyACastigar2Animation_11
+  - first:
+      213: -4402601029484692274
+    second: davo_TeVoyACastigar2Animation_12
+  - first:
+      213: -6198562688682628552
+    second: davo_TeVoyACastigar2Animation_13
+  - first:
+      213: 8287502872723645198
+    second: davo_TeVoyACastigar2Animation_14
+  - first:
+      213: -7024787968694745530
+    second: davo_TeVoyACastigar2Animation_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: davo_TeVoyACastigar2Animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267
+        width: 181
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ebe886e14097e70800000000000000
+      internalID: 9113319849610624552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davo_TeVoyACastigar2Animation_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 267
+        width: 181
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6de832023b56550800000000000000
+      internalID: 6153521416488539892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davo_TeVoyACastigar2Animation_2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 267
+        width: 181
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf45374a2430f0a80800000000000000
+      internalID: -8498570387063089925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davo_TeVoyACastigar2Animation_3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 267
+        width: 181
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4238d4021c50ff720800000000000000
+      internalID: 2882028613569184548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davo_TeVoyACastigar2Animation_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 181
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd87191a8e50616b0800000000000000
+      internalID: -5326063012617815841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davo_TeVoyACastigar2Animation_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 178
+        width: 181
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e5f6d8fc0215c60800000000000000
+      internalID: 7805055705012985358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davo_TeVoyACastigar2Animation_6
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 178
+        width: 181
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc215f9ab2d67370800000000000000
+      internalID: 8320069060592217329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davo_TeVoyACastigar2Animation_7
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 178
+        width: 181
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d08e511733cdc50800000000000000
+      internalID: 6691279707157564695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davo_TeVoyACastigar2Animation_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 181
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3b448c492478ba0800000000000000
+      internalID: -6086823164585397259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davo_TeVoyACastigar2Animation_9
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 89
+        width: 181
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f458644aa5cda4a60800000000000000
+      internalID: 7659176398158202191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davo_TeVoyACastigar2Animation_10
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 89
+        width: 181
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e67ce8ccdfb1e610800000000000000
+      internalID: 1648809893578962664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davo_TeVoyACastigar2Animation_11
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 89
+        width: 181
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1648f18f84f9fb0800000000000000
+      internalID: -4638908860650462815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davo_TeVoyACastigar2Animation_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 181
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccbbcd80b1d6e2c0800000000000000
+      internalID: -4402601029484692274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davo_TeVoyACastigar2Animation_13
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 181
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ae41773184af9a0800000000000000
+      internalID: -6198562688682628552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davo_TeVoyACastigar2Animation_14
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 181
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03e8b324ff130370800000000000000
+      internalID: 8287502872723645198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davo_TeVoyACastigar2Animation_15
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 181
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6460387bf80f28e90800000000000000
+      internalID: -7024787968694745530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

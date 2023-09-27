@@ -1,0 +1,401 @@
+fileFormatVersion: 2
+guid: 71c6fd2d52694af49baf01426ccb044a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9105290785650726005
+    second: davo_damagedAnimation_0
+  - first:
+      213: -8152172533384347723
+    second: davo_damagedAnimation_1
+  - first:
+      213: 3701790861133978241
+    second: davo_damagedAnimation_2
+  - first:
+      213: -1745493417279042945
+    second: davo_damagedAnimation_3
+  - first:
+      213: -5663958566356657050
+    second: davo_damagedAnimation_4
+  - first:
+      213: 333130261825677368
+    second: davo_damagedAnimation_5
+  - first:
+      213: 5072819028991801584
+    second: davo_damagedAnimation_6
+  - first:
+      213: -903219263491013044
+    second: davo_damagedAnimation_7
+  - first:
+      213: 4131718568180232610
+    second: davo_damagedAnimation_8
+  - first:
+      213: -7336906838723202634
+    second: davo_damagedAnimation_9
+  - first:
+      213: 2743502163513509187
+    second: davo_damagedAnimation_10
+  - first:
+      213: 5538079856560061628
+    second: davo_damagedAnimation_11
+  - first:
+      213: -5310380819738618085
+    second: davo_damagedAnimation_12
+  - first:
+      213: 3437416489144053766
+    second: davo_damagedAnimation_13
+  - first:
+      213: -7667856217520220769
+    second: davo_damagedAnimation_14
+  - first:
+      213: 4672050034491216460
+    second: davo_damagedAnimation_15
+  - first:
+      213: 7774826308252513384
+    second: davo_damagedAnimation_16
+  - first:
+      213: 1443386896143031084
+    second: davo_damagedAnimation_17
+  - first:
+      213: 5252418382158080593
+    second: davo_damagedAnimation_18
+  - first:
+      213: 3762229926145275084
+    second: davo_damagedAnimation_19
+  - first:
+      213: 2015552991527358124
+    second: davo_damagedAnimation_20
+  - first:
+      213: -1740005729532411856
+    second: davo_damagedAnimation_21
+  - first:
+      213: 3304046552306951926
+    second: davo_damagedAnimation_22
+  - first:
+      213: -4887629283828756463
+    second: davo_damagedAnimation_23
+  - first:
+      213: -3057606576455687074
+    second: davo_damagedAnimation_24
+  - first:
+      213: -1326508119487023388
+    second: davo_damagedAnimation_25
+  - first:
+      213: -3486104528424630761
+    second: davo_damagedAnimation_26
+  - first:
+      213: -2842062349673016401
+    second: davo_damagedAnimation_27
+  - first:
+      213: 1545845203817936066
+    second: davo_damagedAnimation_28
+  - first:
+      213: -9158481965968409200
+    second: davo_damagedAnimation_29
+  - first:
+      213: -3762978078317811779
+    second: davo_damagedAnimation_30
+  - first:
+      213: -4495167985380446251
+    second: davo_damagedAnimation_31
+  - first:
+      213: 864681294312053537
+    second: davo_damagedAnimation_32
+  - first:
+      213: -4820098633772514546
+    second: davo_damagedAnimation_33
+  - first:
+      213: -1493427925862350222
+    second: davo_damagedAnimation_34
+  - first:
+      213: 4155925062067070264
+    second: davo_damagedAnimation_35
+  - first:
+      213: 853120649011209160
+    second: davo_damagedAnimation_36
+  - first:
+      213: -2426048934284816542
+    second: davo_damagedAnimation_37
+  - first:
+      213: -7868039429493824421
+    second: davo_damagedAnimation_38
+  - first:
+      213: 7629842037520511947
+    second: davo_damagedAnimation_39
+  - first:
+      213: -8784628496920921590
+    second: davo_damagedAnimation_40
+  - first:
+      213: 7766684801994139072
+    second: davo_damagedAnimation_41
+  - first:
+      213: 7842777635455669267
+    second: davo_damagedAnimation_42
+  - first:
+      213: 7783893744169317223
+    second: davo_damagedAnimation_43
+  - first:
+      213: -4977440941956705846
+    second: davo_damagedAnimation_44
+  - first:
+      213: 5937365849267597247
+    second: davo_damagedAnimation_45
+  - first:
+      213: -8222973054890559329
+    second: davo_damagedAnimation_46
+  - first:
+      213: 4400272702382258107
+    second: davo_damagedAnimation_47
+  - first:
+      213: -5379967227993094322
+    second: davo_damagedAnimation_48
+  - first:
+      213: -1185145013244063607
+    second: davo_damagedAnimation_49
+  - first:
+      213: 3799186500506199432
+    second: davo_damagedAnimation_50
+  - first:
+      213: -9145318900138400774
+    second: davo_damagedAnimation_0
+  - first:
+      213: -57965626062940190
+    second: davo_damagedAnimation_1
+  - first:
+      213: -7208816833841806373
+    second: davo_damagedAnimation_2
+  - first:
+      213: -838497549180600029
+    second: davo_damagedAnimation_3
+  - first:
+      213: 3186381594956700289
+    second: davo_damagedAnimation_4
+  - first:
+      213: 2180146670870224944
+    second: davo_damagedAnimation_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: davo_damagedAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 54
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3a59f0aec451180800000000000000
+      internalID: -9145318900138400774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davo_damagedAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 54
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7d559f190123ff0800000000000000
+      internalID: -57965626062940190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davo_damagedAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 54
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3c008984325fb90800000000000000
+      internalID: -7208816833841806373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davo_damagedAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 54
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3210e0cebee0d54f0800000000000000
+      internalID: -838497549180600029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davo_damagedAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 54
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a9c3ead2d483c20800000000000000
+      internalID: 3186381594956700289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davo_damagedAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 54
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0306873a8df614e10800000000000000
+      internalID: 2180146670870224944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

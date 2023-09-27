@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Characters
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+    totalSpriteSurfaceArea: 64800
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 3724689513090504624, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: -4666555277280003333, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: -1310513776757113559, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: -8487477499475462137, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: 6453542286861914475, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: -560947625930274840, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: 1345806706280860745, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: -6807785521965858519, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: -4084117282562980729, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: -8106599083996163700, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: 8331059720337679033, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: 3920941451371390089, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: -2165164405204171265, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: -5395635401583298467, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: -8983137349336284786, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: 7351209595245897047, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: -1840311372401689206, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: 315090994222723488, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: 6693653552850362437, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: 1558157775483175369, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: -7326384809101558440, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: 3108041910621896065, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: -8681526568989237801, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: 2462712760033147532, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: -4269976975339123666, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: -8062138860584484397, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: -5473227891466585783, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: -2081636608091550930, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: 8384756233308487494, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: 1729559330238208730, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: 4102341360451706592, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  - {fileID: -2301870431330211171, guid: 3946eab2e12f54d49891a386581eb51f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Conglo Exploration - Sprite Sheet_13
+  - Conglo Exploration - Sprite Sheet_12
+  - Conglo Exploration - Sprite Sheet_11
+  - Conglo Exploration - Sprite Sheet_10
+  - Conglo Exploration - Sprite Sheet_17
+  - Conglo Exploration - Sprite Sheet_16
+  - Conglo Exploration - Sprite Sheet_15
+  - Conglo Exploration - Sprite Sheet_14
+  - Conglo Exploration - Sprite Sheet_19
+  - Conglo Exploration - Sprite Sheet_18
+  - Conglo Exploration - Sprite Sheet_0
+  - Conglo Exploration - Sprite Sheet_1
+  - Conglo Exploration - Sprite Sheet_2
+  - Conglo Exploration - Sprite Sheet_3
+  - Conglo Exploration - Sprite Sheet_4
+  - Conglo Exploration - Sprite Sheet_5
+  - Conglo Exploration - Sprite Sheet_6
+  - Conglo Exploration - Sprite Sheet_7
+  - Conglo Exploration - Sprite Sheet_8
+  - Conglo Exploration - Sprite Sheet_9
+  - Conglo Exploration - Sprite Sheet_26
+  - Conglo Exploration - Sprite Sheet_27
+  - Conglo Exploration - Sprite Sheet_24
+  - Conglo Exploration - Sprite Sheet_25
+  - Conglo Exploration - Sprite Sheet_22
+  - Conglo Exploration - Sprite Sheet_23
+  - Conglo Exploration - Sprite Sheet_20
+  - Conglo Exploration - Sprite Sheet_21
+  - Conglo Exploration - Sprite Sheet_31
+  - Conglo Exploration - Sprite Sheet_30
+  - Conglo Exploration - Sprite Sheet_28
+  - Conglo Exploration - Sprite Sheet_29
+  m_Tag: Characters
+  m_IsVariant: 0

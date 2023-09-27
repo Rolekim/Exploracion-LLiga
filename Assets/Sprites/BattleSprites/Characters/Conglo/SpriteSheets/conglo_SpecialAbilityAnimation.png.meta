@@ -1,0 +1,1544 @@
+fileFormatVersion: 2
+guid: 3f07b6a1b1c36d246b5f07b83e18aa6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3657418237717250386
+    second: conglo_SpecialAbilityAnimation_0
+  - first:
+      213: 2774232220205229702
+    second: conglo_SpecialAbilityAnimation_1
+  - first:
+      213: 519746315229277384
+    second: conglo_SpecialAbilityAnimation_2
+  - first:
+      213: 834615829611638075
+    second: conglo_SpecialAbilityAnimation_3
+  - first:
+      213: -9063323803035115050
+    second: conglo_SpecialAbilityAnimation_4
+  - first:
+      213: -7998514798985916168
+    second: conglo_SpecialAbilityAnimation_5
+  - first:
+      213: -1347789988559650168
+    second: conglo_SpecialAbilityAnimation_6
+  - first:
+      213: 3416748203649183610
+    second: conglo_SpecialAbilityAnimation_7
+  - first:
+      213: -5075221912273294433
+    second: conglo_SpecialAbilityAnimation_8
+  - first:
+      213: 4492651647670139933
+    second: conglo_SpecialAbilityAnimation_9
+  - first:
+      213: -9119518922623971565
+    second: conglo_SpecialAbilityAnimation_10
+  - first:
+      213: -100490173940691068
+    second: conglo_SpecialAbilityAnimation_11
+  - first:
+      213: 1156649844122631007
+    second: conglo_SpecialAbilityAnimation_12
+  - first:
+      213: -7309182080311933258
+    second: conglo_SpecialAbilityAnimation_13
+  - first:
+      213: 7187125597411674187
+    second: conglo_SpecialAbilityAnimation_14
+  - first:
+      213: 2991304257943985778
+    second: conglo_SpecialAbilityAnimation_15
+  - first:
+      213: -4700444711337629381
+    second: conglo_SpecialAbilityAnimation_16
+  - first:
+      213: -7523524048034194774
+    second: conglo_SpecialAbilityAnimation_17
+  - first:
+      213: 1055177574931754495
+    second: conglo_SpecialAbilityAnimation_18
+  - first:
+      213: -3131666328554236792
+    second: conglo_SpecialAbilityAnimation_19
+  - first:
+      213: -5084826796128500094
+    second: conglo_SpecialAbilityAnimation_20
+  - first:
+      213: -9073071561711976550
+    second: conglo_SpecialAbilityAnimation_21
+  - first:
+      213: -4664906668161425577
+    second: conglo_SpecialAbilityAnimation_22
+  - first:
+      213: 1165491393658223807
+    second: conglo_SpecialAbilityAnimation_23
+  - first:
+      213: 7937916804720241570
+    second: conglo_SpecialAbilityAnimation_24
+  - first:
+      213: 2468849231781793114
+    second: conglo_SpecialAbilityAnimation_25
+  - first:
+      213: 6158428276780635093
+    second: conglo_SpecialAbilityAnimation_26
+  - first:
+      213: 5138490913700088213
+    second: conglo_SpecialAbilityAnimation_27
+  - first:
+      213: 7159489371252720695
+    second: conglo_SpecialAbilityAnimation_28
+  - first:
+      213: -976353933680551948
+    second: conglo_SpecialAbilityAnimation_29
+  - first:
+      213: 3849416274292704746
+    second: conglo_SpecialAbilityAnimation_30
+  - first:
+      213: 2333017217319950442
+    second: conglo_SpecialAbilityAnimation_31
+  - first:
+      213: 4947228679635952692
+    second: conglo_SpecialAbilityAnimation_32
+  - first:
+      213: -5532501333466266279
+    second: conglo_SpecialAbilityAnimation_33
+  - first:
+      213: -1431666055681878966
+    second: conglo_SpecialAbilityAnimation_34
+  - first:
+      213: 529745816268910893
+    second: conglo_SpecialAbilityAnimation_35
+  - first:
+      213: -4479175688051356667
+    second: conglo_SpecialAbilityAnimation_36
+  - first:
+      213: -3607655403532302845
+    second: conglo_SpecialAbilityAnimation_37
+  - first:
+      213: -3858497858178710488
+    second: conglo_SpecialAbilityAnimation_38
+  - first:
+      213: 1517973426762997761
+    second: conglo_SpecialAbilityAnimation_39
+  - first:
+      213: -6302986931058719315
+    second: conglo_SpecialAbilityAnimation_40
+  - first:
+      213: 8542021916323739278
+    second: conglo_SpecialAbilityAnimation_41
+  - first:
+      213: 7364144350440762308
+    second: conglo_SpecialAbilityAnimation_42
+  - first:
+      213: 3465635110003203148
+    second: conglo_SpecialAbilityAnimation_43
+  - first:
+      213: 73029350585001808
+    second: conglo_SpecialAbilityAnimation_44
+  - first:
+      213: -4363251383552403932
+    second: conglo_SpecialAbilityAnimation_45
+  - first:
+      213: 7897377086095239817
+    second: conglo_SpecialAbilityAnimation_46
+  - first:
+      213: 8952672676303547071
+    second: conglo_SpecialAbilityAnimation_47
+  - first:
+      213: 7423215032032271948
+    second: conglo_SpecialAbilityAnimation_48
+  - first:
+      213: 8655382708953279090
+    second: conglo_SpecialAbilityAnimation_49
+  - first:
+      213: 4474832187568249065
+    second: conglo_SpecialAbilityAnimation_50
+  - first:
+      213: -5628819584239655839
+    second: conglo_SpecialAbilityAnimation_51
+  - first:
+      213: 1572744336195280405
+    second: conglo_SpecialAbilityAnimation_52
+  - first:
+      213: -3682071430644343899
+    second: conglo_SpecialAbilityAnimation_53
+  - first:
+      213: -1441242579312412200
+    second: conglo_SpecialAbilityAnimation_54
+  - first:
+      213: 2396609259409792066
+    second: conglo_SpecialAbilityAnimation_55
+  - first:
+      213: 2568414468110199762
+    second: conglo_SpecialAbilityAnimation_56
+  - first:
+      213: -2878565573713418431
+    second: conglo_SpecialAbilityAnimation_57
+  - first:
+      213: 4134799106899969475
+    second: conglo_SpecialAbilityAnimation_58
+  - first:
+      213: -7899114938998013424
+    second: conglo_SpecialAbilityAnimation_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 665
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2510c266282c1c230800000000000000
+      internalID: 3657418237717250386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 665
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686a6c9718d008620800000000000000
+      internalID: 2774232220205229702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 665
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc2f8c1582863700800000000000000
+      internalID: 519746315229277384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 665
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d6befcca6259b00800000000000000
+      internalID: 834615829611638075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 665
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1efbb450b983280800000000000000
+      internalID: -9063323803035115050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 665
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f05db31b219ff090800000000000000
+      internalID: -7998514798985916168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 665
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88203147520bb4de0800000000000000
+      internalID: -1347789988559650168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 665
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fa675736aba6f20800000000000000
+      internalID: 3416748203649183610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 665
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bebaa7f803199b0800000000000000
+      internalID: -5075221912273294433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 665
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cb3f6deda195e30800000000000000
+      internalID: 4492651647670139933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f8b8e6bd5f07180800000000000000
+      internalID: -9119518922623971565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 532
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f09de18bcfa9ef0800000000000000
+      internalID: -100490173940691068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 532
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bb070b7ee3d0010800000000000000
+      internalID: 1156649844122631007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 532
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b64b58af91909a90800000000000000
+      internalID: -7309182080311933258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 532
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4807ddd6accdb360800000000000000
+      internalID: 7187125597411674187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 532
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e5dddbf5f338920800000000000000
+      internalID: 2991304257943985778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 532
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b396b56607aa4ceb0800000000000000
+      internalID: -4700444711337629381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 532
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa10d95db2179790800000000000000
+      internalID: -7523524048034194774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_18
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 532
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffde3c0f96eb4ae00800000000000000
+      internalID: 1055177574931754495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_19
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 532
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884197301161a84d0800000000000000
+      internalID: -3131666328554236792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2868f5038f01f69b0800000000000000
+      internalID: -5084826796128500094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 399
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f757e5c79f51280800000000000000
+      internalID: -9073071561711976550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_22
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 399
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f13edd91ce24fb0800000000000000
+      internalID: -4664906668161425577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_23
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 399
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcf5cb5f38ac2010800000000000000
+      internalID: 1165491393658223807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_24
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 399
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab24f9e645292e60800000000000000
+      internalID: 7937916804720241570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_25
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 399
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d8958bb4d134220800000000000000
+      internalID: 2468849231781793114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_26
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 399
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d31b3493e1277550800000000000000
+      internalID: 6158428276780635093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_27
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 399
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5998aa8d2469f4740800000000000000
+      internalID: 5138490913700088213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_28
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 399
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73404ba86ad9b5360800000000000000
+      internalID: 7159489371252720695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_29
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 399
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f75aef254b4372f0800000000000000
+      internalID: -976353933680551948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae503d5d4bfdb6530800000000000000
+      internalID: 3849416274292704746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_31
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 266
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68d93d5cca806020800000000000000
+      internalID: 2333017217319950442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_32
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 266
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4346358c54618a440800000000000000
+      internalID: 4947228679635952692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_33
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 266
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9554e53895b9833b0800000000000000
+      internalID: -5532501333466266279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_34
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 266
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44d812ce43b12ce0800000000000000
+      internalID: -1431666055681878966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_35
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 266
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2135ff53090a5700800000000000000
+      internalID: 529745816268910893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_36
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 266
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c02238175c6d1c0800000000000000
+      internalID: -4479175688051356667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_37
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 266
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306407056880fedc0800000000000000
+      internalID: -3607655403532302845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_38
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 266
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82407a424acd37ac0800000000000000
+      internalID: -3858497858178710488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_39
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 266
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100e0b00acce01510800000000000000
+      internalID: 1517973426762997761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5c056e7ca4788a0800000000000000
+      internalID: -6302986931058719315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_41
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 133
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86f312ecab5b8670800000000000000
+      internalID: 8542021916323739278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_42
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 133
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cba8b21542b23660800000000000000
+      internalID: 7364144350440762308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_43
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 133
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cdcd455c8681030800000000000000
+      internalID: 3465635110003203148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_44
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 133
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057ebc3bec3730100800000000000000
+      internalID: 73029350585001808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_45
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 133
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42690a1fbfd9273c0800000000000000
+      internalID: -4363251383552403932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_46
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 133
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a24022e9e199d60800000000000000
+      internalID: 7897377086095239817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_47
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 133
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba2b65ad584e3c70800000000000000
+      internalID: 8952672676303547071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_48
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 133
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e9f93edbe840760800000000000000
+      internalID: 7423215032032271948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_49
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 133
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ae73237b81e1870800000000000000
+      internalID: 8655382708953279090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e85d797a2cc91e30800000000000000
+      internalID: 4474832187568249065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_51
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16422a0396a62e1b0800000000000000
+      internalID: -5628819584239655839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_52
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e5d6914a283d510800000000000000
+      internalID: 1572744336195280405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_53
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 0
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab54d2da87a6ecc0800000000000000
+      internalID: -3682071430644343899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_54
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d97ae8928daffbe0800000000000000
+      internalID: -1441242579312412200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_55
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 0
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c58847c67724120800000000000000
+      internalID: 2396609259409792066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_56
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 0
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbaea7c957d4a320800000000000000
+      internalID: 2568414468110199762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_57
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 0
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147a42cacd74d08d0800000000000000
+      internalID: -2878565573713418431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_58
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 0
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5006071e1c16930800000000000000
+      internalID: 4134799106899969475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conglo_SpecialAbilityAnimation_59
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 0
+        width: 145
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012ca0570d4b06290800000000000000
+      internalID: -7899114938998013424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

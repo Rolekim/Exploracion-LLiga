@@ -1,0 +1,1328 @@
+fileFormatVersion: 2
+guid: 50fec618948abf24eaafe1900fdb2507
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1971196922640655283
+    second: Marcelino_GalletaGalletaMetralleta_0
+  - first:
+      213: -7957692790116010855
+    second: Marcelino_GalletaGalletaMetralleta_1
+  - first:
+      213: 6781560549865095735
+    second: Marcelino_GalletaGalletaMetralleta_2
+  - first:
+      213: 1834129646649308381
+    second: Marcelino_GalletaGalletaMetralleta_3
+  - first:
+      213: -3850192718623346676
+    second: Marcelino_GalletaGalletaMetralleta_4
+  - first:
+      213: 944180017325431045
+    second: Marcelino_GalletaGalletaMetralleta_5
+  - first:
+      213: 9136370829348870499
+    second: Marcelino_GalletaGalletaMetralleta_6
+  - first:
+      213: -181845626872518240
+    second: Marcelino_GalletaGalletaMetralleta_7
+  - first:
+      213: 4647955969253470971
+    second: Marcelino_GalletaGalletaMetralleta_8
+  - first:
+      213: -8887329459256536261
+    second: Marcelino_GalletaGalletaMetralleta_9
+  - first:
+      213: 2868977646406492520
+    second: Marcelino_GalletaGalletaMetralleta_10
+  - first:
+      213: -8795969242145416102
+    second: Marcelino_GalletaGalletaMetralleta_11
+  - first:
+      213: -3715543480534776638
+    second: Marcelino_GalletaGalletaMetralleta_12
+  - first:
+      213: -1798129207644560533
+    second: Marcelino_GalletaGalletaMetralleta_13
+  - first:
+      213: 3858825850412131867
+    second: Marcelino_GalletaGalletaMetralleta_14
+  - first:
+      213: 2030463745882848866
+    second: Marcelino_GalletaGalletaMetralleta_15
+  - first:
+      213: 4146465624917252491
+    second: Marcelino_GalletaGalletaMetralleta_16
+  - first:
+      213: 7963361255541307502
+    second: Marcelino_GalletaGalletaMetralleta_17
+  - first:
+      213: -1858941302281335347
+    second: Marcelino_GalletaGalletaMetralleta_18
+  - first:
+      213: 4836180207071665115
+    second: Marcelino_GalletaGalletaMetralleta_19
+  - first:
+      213: -4501291364426672491
+    second: Marcelino_GalletaGalletaMetralleta_20
+  - first:
+      213: 1119508505957288327
+    second: Marcelino_GalletaGalletaMetralleta_21
+  - first:
+      213: -7485223009404068340
+    second: Marcelino_GalletaGalletaMetralleta_22
+  - first:
+      213: -7591615238562965538
+    second: Marcelino_GalletaGalletaMetralleta_23
+  - first:
+      213: 9014433544571948604
+    second: Marcelino_GalletaGalletaMetralleta_24
+  - first:
+      213: 2886690825174259449
+    second: Marcelino_GalletaGalletaMetralleta_25
+  - first:
+      213: -6597968567577935004
+    second: Marcelino_GalletaGalletaMetralleta_26
+  - first:
+      213: 2208405808597379867
+    second: Marcelino_GalletaGalletaMetralleta_27
+  - first:
+      213: 1684823091500553402
+    second: Marcelino_GalletaGalletaMetralleta_28
+  - first:
+      213: -6762874051199207687
+    second: Marcelino_GalletaGalletaMetralleta_29
+  - first:
+      213: -4078118754871177476
+    second: Marcelino_GalletaGalletaMetralleta_30
+  - first:
+      213: 4056305463191041856
+    second: Marcelino_GalletaGalletaMetralleta_31
+  - first:
+      213: -9053635942073776771
+    second: Marcelino_GalletaGalletaMetralleta_32
+  - first:
+      213: 8694672145077256964
+    second: Marcelino_GalletaGalletaMetralleta_33
+  - first:
+      213: -3031675973519866151
+    second: Marcelino_GalletaGalletaMetralleta_34
+  - first:
+      213: -1150763064900137448
+    second: Marcelino_GalletaGalletaMetralleta_35
+  - first:
+      213: 8757749433460120159
+    second: Marcelino_GalletaGalletaMetralleta_36
+  - first:
+      213: 8012074937288839620
+    second: Marcelino_GalletaGalletaMetralleta_37
+  - first:
+      213: 7633263518323938427
+    second: Marcelino_GalletaGalletaMetralleta_38
+  - first:
+      213: -87492538070409707
+    second: Marcelino_GalletaGalletaMetralleta_39
+  - first:
+      213: 1213956172122104286
+    second: Marcelino_GalletaGalletaMetralleta_40
+  - first:
+      213: -3235717990533846803
+    second: Marcelino_GalletaGalletaMetralleta_41
+  - first:
+      213: -534097106712611489
+    second: Marcelino_GalletaGalletaMetralleta_42
+  - first:
+      213: -4197783254551366242
+    second: Marcelino_GalletaGalletaMetralleta_43
+  - first:
+      213: -3700637383938790473
+    second: Marcelino_GalletaGalletaMetralleta_44
+  - first:
+      213: -4532449610852685795
+    second: Marcelino_GalletaGalletaMetralleta_45
+  - first:
+      213: -4339130873142951744
+    second: Marcelino_GalletaGalletaMetralleta_46
+  - first:
+      213: 410099658486068928
+    second: Marcelino_GalletaGalletaMetralleta_47
+  - first:
+      213: 7057461752352974914
+    second: Marcelino_GalletaGalletaMetralleta_48
+  - first:
+      213: -4069281754562196240
+    second: Marcelino_GalletaGalletaMetralleta_49
+  - first:
+      213: -225728400769476015
+    second: Marcelino_GalletaGalletaMetralleta_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1395
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c19abb7d6e4a4e0800000000000000
+      internalID: -1971196922640655283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1395
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994b27da198909190800000000000000
+      internalID: -7957692790116010855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1395
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732038dc361fc1e50800000000000000
+      internalID: 6781560549865095735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_3
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1395
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd47b8c2233247910800000000000000
+      internalID: 1834129646649308381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_4
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1395
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00f8a12f1e519ac0800000000000000
+      internalID: -3850192718623346676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_5
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1395
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50954b829b66a1d00800000000000000
+      internalID: 944180017325431045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_6
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1395
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369949bdcd8eace70800000000000000
+      internalID: 9136370829348870499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_7
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1395
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a92e46ad54f97df0800000000000000
+      internalID: -181845626872518240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_8
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1395
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2720ff35bd08040800000000000000
+      internalID: 4647955969253470971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_9
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1395
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b335623a1fcd9a480800000000000000
+      internalID: -8887329459256536261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1116
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861689a08f7a0d720800000000000000
+      internalID: 2868977646406492520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1116
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c19aac3907ee580800000000000000
+      internalID: -8795969242145416102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_12
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1116
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4c437e3ecbf6cc0800000000000000
+      internalID: -3715543480534776638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_13
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1116
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6367163303cb07e0800000000000000
+      internalID: -1798129207644560533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_14
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1116
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16e8ef7aad4d8530800000000000000
+      internalID: 3858825850412131867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_15
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1116
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ef7aed408ad2c10800000000000000
+      internalID: 2030463745882848866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_16
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1116
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b899f8654843b8930800000000000000
+      internalID: 4146465624917252491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_17
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1116
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68f5a6ceda838e60800000000000000
+      internalID: 7963361255541307502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_18
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1116
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd08331cb6b336e0800000000000000
+      internalID: -1858941302281335347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_19
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1116
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb184076409d1340800000000000000
+      internalID: 4836180207071665115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 837
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59690d85a533881c0800000000000000
+      internalID: -4501291364426672491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_21
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 837
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789cc940e0b498f00800000000000000
+      internalID: 1119508505957288327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_22
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 837
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ed3e3d4552f1890800000000000000
+      internalID: -7485223009404068340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_23
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 837
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed71302a92a25a690800000000000000
+      internalID: -7591615238562965538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_24
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 837
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e839b5c83b91d70800000000000000
+      internalID: 9014433544571948604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_25
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 837
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f614ead2069f0820800000000000000
+      internalID: 2886690825174259449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_26
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 837
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463035a9b8e4f64a0800000000000000
+      internalID: -6597968567577935004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_27
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 837
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b2b5dd165d5ae10800000000000000
+      internalID: 2208405808597379867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_28
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 837
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab41446dca1b16710800000000000000
+      internalID: 1684823091500553402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_29
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 837
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f67095b1e17522a0800000000000000
+      internalID: -6762874051199207687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe8b08699c9767c0800000000000000
+      internalID: -4078118754871177476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_31
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 558
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0477af9d354ea4830800000000000000
+      internalID: 4056305463191041856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_32
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 558
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75cbf234160b5280800000000000000
+      internalID: -9053635942073776771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_33
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 558
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40340d5ef3ea9a870800000000000000
+      internalID: 8694672145077256964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_34
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 558
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6034cb3c25de5d0800000000000000
+      internalID: -3031675973519866151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_35
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 558
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eccf7e61ba700f0800000000000000
+      internalID: -1150763064900137448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_36
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 558
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ad44d85b6c98970800000000000000
+      internalID: 8757749433460120159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_37
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 558
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c159e6a4bb903f60800000000000000
+      internalID: 8012074937288839620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_38
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 558
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7495a62abccee960800000000000000
+      internalID: 7633263518323938427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_39
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 558
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ed0db000a29cef0800000000000000
+      internalID: -87492538070409707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed12b3ce4b6d8d010800000000000000
+      internalID: 1213956172122104286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_41
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 279
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8a3e491ab6813d0800000000000000
+      internalID: -3235717990533846803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_42
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 279
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55b4ded2818698f0800000000000000
+      internalID: -534097106712611489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_43
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 279
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95f16cee5a7eb5c0800000000000000
+      internalID: -4197783254551366242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_44
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 279
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb2cc7f7e1b4acc0800000000000000
+      internalID: -3700637383938790473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_45
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 279
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18a4c6c7118911c0800000000000000
+      internalID: -4532449610852685795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_46
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 279
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c04268e57f48c3c0800000000000000
+      internalID: -4339130873142951744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_47
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 279
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c632927777f0b500800000000000000
+      internalID: 410099658486068928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_48
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 279
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248a7ec521421f160800000000000000
+      internalID: 7057461752352974914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_49
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 279
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc8750edc10787c0800000000000000
+      internalID: -4069281754562196240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelino_GalletaGalletaMetralleta_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 183
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a1b68273d0edcf0800000000000000
+      internalID: -225728400769476015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
